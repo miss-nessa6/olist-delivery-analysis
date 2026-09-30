@@ -2,7 +2,7 @@
 
 **Interactive dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/vanessa.ani/viz/OlistDeliveryCustomerSatisfaction/OlistDashboard)
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## The question
 
@@ -73,6 +73,6 @@ Monthly orders grew strongly through 2017, with a Black Friday peak in November 
 ## Repository structure
 
 ```
-sql/      SQL queries, numbered in the order I ran them
-images/   dashboard screenshot
+   01–13_*.sql    SQL queries, numbered in the order I ran them
+   Dashboard.png  dashboard screenshot
 ```
